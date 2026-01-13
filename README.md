@@ -1,39 +1,67 @@
-<h1 align="center">hello world, welcome to my universe.</h1>
+<h1 align="center">Hello World 👋, I'm Bandile Mbele</h1>
+<h3 align="center">QA Engineer | Test Automation | Building tools that make software better</h3>
 
+<p align="center">
+I specialize in automated testing, test frameworks, and building smart QA tools.  
+Currently focused on Selenium, Cucumber, API testing, and automation frameworks.
+</p>
 
+---
+
+### 🧠 What I do
+- 🔍 Test automation with **Selenium, Cucumber, Java**
+- 🧪 API & database testing (Postman, SQL)
+- 🛠 Building QA tools like **Velo** (requirements → test cases → automation)
+- ⚡ CI/CD-ready test frameworks
+- 📊 Test coverage & reporting
+
+---
+
+### 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="60" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="60" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=java,python,selenium,aws,azure,html,vscode,intellij" height="60"/>
 </div>
 
+---
 
+### 📌 Featured Projects
+> These are what recruiters actually care about.
+
+| Project | Description |
+|-------|-------------|
+| 🧪 **PetStore Automation** | Selenium + Cucumber framework testing a real web app |
+| ⚙️ **Velo QA Platform** | Tool that converts requirements into test cases & automation |
+| 🔌 **API Testing Suite** | Postman + Newman API tests |
+| 📊 **Allure Reporting** | Automated test reports for CI pipelines |
+
+*(Link these to your repos once uploaded)*
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BandileMbele&show_icons=true&theme=radical"/>
+</p>
+
+---
+
+### 🌍 Let’s Connect
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:YOUR@EMAIL.COM">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://youtube.com/YOUR-CHANNEL">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+  </a>
 </div>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+---
+
+<p align="center">
+⚡ "Quality is not tested in — it is engineered."
+</p>
+
 
