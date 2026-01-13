@@ -26,14 +26,7 @@ and i try to have fun...
 ### Featured Projects
 
  **PetStore Automation** - Selenium + Cucumber framework testing a real web app
-will add others soon...
-
----
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BandileMbele&show_icons=true&theme=radical"/>
-</p>
+- will add others soon...
 
 ---
 
@@ -53,7 +46,7 @@ will add others soon...
 ---
 
 <p align="center">
-"Quality is engineered by people for the people, lets build software solutions that make people fall in love with their applications"
+Quality is engineered by people for the people, lets build software solutions that make people fall in love with their applications
 </p>
 
 
