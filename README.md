@@ -16,7 +16,7 @@ and i try to have fun...
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,selenium,aws,azure,html,vscode,intellij" height="60"/>
 </div>
@@ -37,7 +37,7 @@ will add others soon...
 
 ---
 
-### 🌍 Let’s Connect
+### Let’s Connect
 <div align="center">
   <a href="https://linkedin.com/in/bandile-mbele">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -53,7 +53,7 @@ will add others soon...
 ---
 
 <p align="center">
-"Quality is not tested in — it is engineered by people for people (at least for now)."
+"Quality is engineered by people for the people, lets build software solutions that make people fall in love with their applications"
 </p>
 
 
